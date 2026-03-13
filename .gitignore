@@ -12,9 +12,7 @@ __pycache__/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
-# training outputs (optional)
 results/
-videos/
 
 # OS files
 .DS_Store
